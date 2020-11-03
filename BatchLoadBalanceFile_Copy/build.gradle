@@ -42,3 +42,7 @@ dependencies {
 test {
     useJUnitPlatform()
 }
+
+
+apply plugin: 'java'
+apply plugin: 'war'
